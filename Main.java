@@ -10,7 +10,6 @@ import java.io.IOException;
 
 public class Main {
 
-
     private static Song parseSong(String[] input) {
         String title = "";
         int i = 0;

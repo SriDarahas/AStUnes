@@ -1,7 +1,4 @@
-//Assignment: 9
 //Name: Sri Darahas Koneru
-//StudentID: 1226423799
-//Lecture: cse-205, Tu, Th 4.30 to 5.45
 //Description: This is the playlist file. There we have methods we can use that implement a Linked List.
 
 public class Playlist {
@@ -109,9 +106,7 @@ public class Playlist {
     	        // If the song is found, return its position
     	        return ps;
     	    }
-    
     	}
-
     	// If the song is not found, return -1
     	return -1;
     }

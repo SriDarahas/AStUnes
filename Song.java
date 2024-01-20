@@ -1,8 +1,4 @@
-
-//Assignment: 9
 //Name: Sri Darahas Koneru
-//StudentID: 1226423799
-//Lecture: cse-205, Tu, Th 4.30 to 5.45
 //Description: This is the file for song. The class Song represents a song in a playlist and has two instance variables
 
 public class Song {
